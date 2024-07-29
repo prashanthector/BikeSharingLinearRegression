@@ -24,7 +24,7 @@
 ## Conclusions
 ### Summary
 
-For our final prediction we will rely on the manual model as we are getting the desired result
+Below is the summary of the linear regression model.
 
 ##### Equation: 
 
