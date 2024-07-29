@@ -80,14 +80,11 @@ Year 2019 has seen a higher demand for shared bikes compared to 2018.¶
 - numpy - NumPy version: 1.26.4
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This assignment was done while doing Post Graduation in AI/ML from IIIT Bangalore and Upgrad.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@prashanthector] feel free to contact me!
 
 
 <!-- Optional -->
