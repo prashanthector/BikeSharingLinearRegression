@@ -26,30 +26,49 @@
 
 For our final prediction we will rely on the manual model as we are getting the desired result
 
-Equation: cnt = 0.113 + 0.481×temp + 0.113×winter + 0.094×summer - 0.084×mistCloudy - 0.296×lightSnow + 0.067×sat + 0.115×sep + 0.042×oct - 0.047×jan + 0.053×aug - 0.163×windspeed + 0.056×workingday + 0.234×yr
+##### Equation: 
+
+cnt = 0.113 + 0.481×temp + 0.113×winter + 0.094×summer - 0.084×mistCloudy - 0.296×lightSnow + 0.067×sat + 0.115×sep + 0.042×oct - 0.047×jan + 0.053×aug - 0.163×windspeed + 0.056×workingday + 0.234×yr
 
 #### Important values:
 1. Train dataset R^2 : 0.843
+   
 2. Test dataset R^2 : 0.791
+   
 3. Train dataset Adjusted R^2 : 0.839
+   
 4. Test dataset Adjusted R^2 : 0.777
-Significant variables:
+   
+#### Significant variables:
 1.year
+
 2.workingday
+
 3.temperature
+
 4.windspeed
+
 5.Season(Winter, Summer)
+
 6.months(August, October, September,January)
+
 7.weathersit( Light Snow, Mist Cloudy)
+
 8.Days(Saturday)
 
 #### Inferences¶
 Company should focus on Winter and Summer Season to expand the business as the demand is high
+
 Demand for bikes is less in Mist Cloudy and Light snow weather situations. So not a right time for business
+
 On Saturdays the demand for shared bike is high
+
 Months Aug, Sep , Oct are good for shared bike business whereas in January the business is showing downward trend
+
 If WindSpeed is high demand for bike is less
+
 On Workingdays demand for bike is high
+
 Year 2019 has seen a higher demand for shared bikes compared to 2018.¶
 
 
