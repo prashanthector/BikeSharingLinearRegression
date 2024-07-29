@@ -78,6 +78,8 @@ Year 2019 has seen a higher demand for shared bikes compared to 2018.¶
 - seaborn library - Seaborn version: 0.12.2
 - pandas - Pandas version: 2.1.4
 - numpy - NumPy version: 1.26.4
+- scikit-learn version: 1.5.1
+- statsmodels version: 0.14.0
 
 ## Acknowledgements
 This assignment was done while doing Post Graduation in AI/ML from IIIT Bangalore and Upgrad.
