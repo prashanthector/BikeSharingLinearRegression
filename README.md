@@ -1,5 +1,5 @@
 # Project Name
-> This is a linear regression project where we are analysing the data for US bike-sharing provider BoomBikes to understand the dips in their revenues. We are trying establish relationship between different variables and final sales.
+> This is a linear regression project where we are analysing the data for US bike-sharing provider BoomBikes to understand the dips in their revenues. We are trying to establish relationship between different variables and final sales.
 
 
 ## Table of Contents
