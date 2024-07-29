@@ -73,11 +73,11 @@ Year 2019 has seen a higher demand for shared bikes compared to 2018.¶
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- jupyter notebook - 7.0.8
+- matplotlib library
+- seaborn library - Seaborn version: 0.12.2
+- pandas - Pandas version: 2.1.4
+- numpy - NumPy version: 1.26.4
 
 ## Acknowledgements
 Give credit here.
