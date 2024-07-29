@@ -25,6 +25,7 @@
 ### Summary
 
 For our final prediction we will rely on the manual model as we are getting the desired result
+
 Equation: cnt = 0.113 + 0.481×temp + 0.113×winter + 0.094×summer - 0.084×mistCloudy - 0.296×lightSnow + 0.067×sat + 0.115×sep + 0.042×oct - 0.047×jan + 0.053×aug - 0.163×windspeed + 0.056×workingday + 0.234×yr
 
 #### Important values:
